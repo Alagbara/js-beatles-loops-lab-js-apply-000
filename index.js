@@ -28,7 +28,7 @@ function johnLennonFacts(facts){
     let num = []
     let i = 0;
     do{
-      num.push("I love the beatles!")
+      num.push("I love the Beatles!")
       i++;
     }while(i < 15)
     
